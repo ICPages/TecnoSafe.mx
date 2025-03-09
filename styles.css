@@ -1,0 +1,87 @@
+/* General */
+body {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #B0B0B0;
+  color: #0A192F; 
+}
+
+.titulorojo {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #1C1C1C;
+}
+
+.preciolink {
+  text-decoration: none;
+}
+
+.preciolink:hover {
+  text-decoration: none;
+}
+
+/* Ajuste del espaciado para el contenido principal */
+.container {
+  margin-top: auto;
+}
+
+/* Colores de la marca */
+.bg-primary {
+  background-color: #4A4A4A !important;
+}
+
+.badge {
+  background-color: #0A192F !important;
+  color: #B0B0B0 !important;
+}
+
+/* Colores y estilos del menú */
+.navbar-brand {
+  font-weight: bold;
+  color: #B0B0B0 !important;
+}
+
+.navbar-brand:hover {
+  font-weight: bold;
+  color: #007BFF !important;
+}
+
+.navbar-nav .nav-link {
+  font-size: 16px;
+  color: #B0B0B0 !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #007BFF !important;
+}
+.row {
+  justify-content: center;
+}
+
+.link {
+  color: #0A192F;
+}
+
+.link:hover {
+  color: #007BFF;
+}
+
+.link-f {
+  color: #B0B0B0;
+}
+
+.link-f:hover {
+  color: #007BFF;
+}
+
+/* Estilos para imágenes */
+.img-fluid {
+  width: 100%;
+  height: auto;
+}
+
+/* Footer */
+footer {
+  margin-top: auto;
+  background-color: #4A4A4A;
+  color: #B0B0B0;
+  font-size: 16px;
+}
